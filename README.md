@@ -82,7 +82,7 @@ It automatically generates a sound source ZIP file in the Documents folder.
    Use as material for sound MADs, YTPMVs, etc.  
   
  【How to use Utaun】  
-1. Download: Download Utaun.ver-1.0.2.zip from the Releases section.  
+1. Download: Download Utaun.ver-1.0.3.zip from the Releases section.  
 2. Extract: Extract (unzip) the downloaded ZIP file.  
 3. Setup: Place Utaun.exe in any folder (Desktop recommended).  
 4. Launch: Launch the exe and follow the on-screen instructions.  
