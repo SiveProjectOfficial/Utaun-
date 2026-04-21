@@ -30,8 +30,6 @@
    生成された ZIP を解凍すると、そのまま UTAU に読み込める音源フォルダが展開されます。 
  ・OpenUTAU  
    ZIP のまま読み込めます（解凍不要）。  
- ・UTAlet  
-   ZIP のまま読み込めます（解凍不要）。  
  ※ 各ソフトでの具体的な利用方法は、それぞれのヘルプ・マニュアル・公式ドキュメントをご参照ください。  
 【動作環境】  
  ・Windows10〜11（64bit）    
@@ -90,8 +88,7 @@ It automatically generates a sound source ZIP file in the Documents folder.
   
  【How to use the generated UTAU sound source】  
  UTAU: When you extract the generated ZIP, a sound source folder that can be directly loaded into UTAU will be extracted.  
- OpenUTAU: You can load it as is (no extraction required).  
- UTAlet: Can be loaded as a ZIP file (no decompression required).  
+ OpenUTAU: You can load it as is (no extraction required).   
   
 For specific usage instructions for each software, please refer to the respective help, manual, or official documentation.  【Operating Environment】  
  Windows10〜11（64bit）   
