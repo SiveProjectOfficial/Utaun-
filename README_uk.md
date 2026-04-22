@@ -22,4 +22,5 @@ Utaun is Windows software that generates CV voicebanks for UTAU using only non-b
 ### 【Terms of Use】
 Modification, commercial use, and redistribution of the software are prohibited. You are free to set terms for the generated voicebanks.
 
+Releases
 (https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇬🇧)
