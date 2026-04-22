@@ -13,4 +13,5 @@
 ### 【Условия】
 Запрещено изменять или перепродавать программу. Права на созданные голоса принадлежат вам.
 
+Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇷🇺
