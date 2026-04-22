@@ -19,3 +19,5 @@ Windows software na gumagawa ng UTAU CV voice banks gamit ang additive synthesis
 
 ### 【Kasunduan】
 Bawal baguhin, ibenta, o i-distribute ang Utaun.exe. Sayo ang karapatan sa mga mabubuong voice bank.
+
+https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇵🇭
