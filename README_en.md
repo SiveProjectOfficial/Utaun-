@@ -57,3 +57,5 @@ The following actions are prohibited for the Utaun main body (`Utaun.exe`):
 (Voicebanks, wav, icon.jpg, oto.ini, etc.)
 You (the distributor) are free to set your own terms of use. Please write your preferred terms in the `readme.txt`.
 For updates, please check the **Releases** page.
+
+https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇺🇸
