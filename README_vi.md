@@ -12,3 +12,5 @@ Phần mềm Windows tạo voice bank CV cho UTAU bằng tổng hợp cộng tí
 
 ### 【Điều khoản】
 Nghiêm cấm sửa đổi, dùng cho mục đích thương mại hoặc phân phối lại phần mềm. Bạn có quyền tự quyết định quy định cho voice bank của mình.
+
+https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇻🇳
