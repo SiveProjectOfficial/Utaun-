@@ -77,3 +77,5 @@ Utaun 本体（Utaun.exe）では以下の行為は禁止されます。
 利用規約は、あなた（配布者）が自由に設定できます。  
 readme.txt にお好きな規約を書いてください。  
 アップデートについてはReleaseをご覧ください。
+
+https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇯🇵
