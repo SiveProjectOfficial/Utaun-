@@ -13,3 +13,5 @@ Software Windows per generare bank vocali CV per UTAU tramite sintesi additiva. 
 
 ### 【Termini】
 Vietata la modifica, l'uso commerciale o la ridistribuzione del software. Sei libero di impostare i termini per le bank generate.
+
+https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇮🇹
