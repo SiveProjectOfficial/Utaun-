@@ -1,4 +1,4 @@
-#  *Utaun*日本語README
+#  Utaun日本語README
 
 **Select Language**  
 [🇯🇵 日本語](./README.md)   
